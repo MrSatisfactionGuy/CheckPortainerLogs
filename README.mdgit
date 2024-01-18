@@ -1,0 +1,2 @@
+"# CheckPortainerLogs"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/MrSatisfactionGuy/CheckPortainerLogs.gitgit push -u origin main
+"# CheckPortainerLogs"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/MrSatisfactionGuy/CheckPortainerLogs.gitgit push -u origin main
